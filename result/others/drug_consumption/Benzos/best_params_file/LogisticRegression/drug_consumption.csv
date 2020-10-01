@@ -1,0 +1,5 @@
+LogisticRegression__C,1
+LogisticRegression__max_iter,50
+LogisticRegression__multi_class,ovr
+LogisticRegression__solver,newton-cg
+LogisticRegression__tol,1e-05

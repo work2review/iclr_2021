@@ -1,0 +1,5 @@
+LogisticRegression__C,1
+LogisticRegression__max_iter,150
+LogisticRegression__multi_class,ovr
+LogisticRegression__solver,saga
+LogisticRegression__tol,1e-05
